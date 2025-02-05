@@ -1,6 +1,6 @@
 {
   "name": "@fjrodafo/free-port",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Fast and minimalist port finder!",
   "main": "free-port.js",
   "scripts": {
