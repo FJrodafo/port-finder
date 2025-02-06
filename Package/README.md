@@ -37,4 +37,4 @@ findAvailablePort(desiredPort).then(port => {
 
 Full repository on [github](https://github.com/FJrodafo/free-port)/[gitlab](https://gitlab.com/FJrodafo/free-port).
 
-Visit the npm package website [here](https://www.npmjs.com/package/@fjrodafo/free-port).
+Check out this package on [GitHub Packages](https://github.com/FJrodafo/free-port/pkgs/npm/free-port) or [npmjs](https://www.npmjs.com/package/@fjrodafo/free-port) website!

@@ -1,10 +1,12 @@
 {
   "name": "@fjrodafo/free-port",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Fast and minimalist port finder!",
   "main": "free-port.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish:npm": "npm publish --access=public --registry=https://registry.npmjs.org/",
+    "publish:github": "npm publish --registry=https://npm.pkg.github.com/"
   },
   "repository": {
     "type": "git",
