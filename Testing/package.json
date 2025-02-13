@@ -4,6 +4,6 @@
     "test": "node benchmarks/loading.js && node benchmarks/size.js"
   },
   "dependencies": {
-    "@fjrodafo/free-port": "^0.0.7"
+    "@fjrodafo/free-port": "^1.0.0"
   }
 }
