@@ -1,7 +1,7 @@
 // Import the 'http' module from Node.js, which allows creating an HTTP server.
 const http = require('node:http');
-// Import the 'findAvailablePort' function from the '@fjrodafo/free-port' module to find an available port.
-const { findAvailablePort } = require('@fjrodafo/free-port');
+// Import the 'findAvailablePort' function from the '@fjrodafo/port-finder' module to find an available port.
+const { findAvailablePort } = require('@fjrodafo/port-finder');
 
 // Set the desired port.
 // It will use the value from the environment variable 'PORT' if available, otherwise, it defaults to port 3000.

@@ -1,14 +1,14 @@
 ## Install it!
 
 ```shell
-npm i @fjrodafo/free-port
+npm i @fjrodafo/port-finder
 ```
 
 ## Run it!
 
 ```js
 // Import the module
-const { findAvailablePort } = require('@fjrodafo/free-port');
+const { findAvailablePort } = require('@fjrodafo/port-finder');
 ```
 
 ```js
@@ -35,6 +35,6 @@ findAvailablePort(desiredPort).then(port => {
 
 ## Links
 
-Full repository on [github](https://github.com/FJrodafo/free-port)/[gitlab](https://gitlab.com/FJrodafo/free-port).
+Full repository on [github](https://github.com/FJrodafo/port-finder)/[gitlab](https://gitlab.com/FJrodafo/port-finder).
 
-Check out this package on [GitHub Packages](https://github.com/FJrodafo/free-port/pkgs/npm/free-port) or [npmjs](https://www.npmjs.com/package/@fjrodafo/free-port) website!
+Check out this package on [GitHub Packages](https://github.com/FJrodafo/port-finder/pkgs/npm/port-finder) or [npmjs](https://www.npmjs.com/package/@fjrodafo/port-finder) website!

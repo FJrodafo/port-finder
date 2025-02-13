@@ -4,12 +4,12 @@ Read this document carefully to learn how to download the repository correctly a
 
 ## Supported Versions
 
-Be sure to download the latest release of the code, as earlier versions of the code may not be stable and may contain unsatisfactory bugs. The latest release of the code can be downloaded from the following link: [GitHub](https://github.com/FJrodafo/free-port/releases)/[GitLab](https://gitlab.com/FJrodafo/free-port/-/releases).
+Be sure to download the latest release of the code, as earlier versions of the code may not be stable and may contain unsatisfactory bugs. The latest release of the code can be downloaded from the following link: [GitHub](https://github.com/FJrodafo/port-finder/releases)/[GitLab](https://gitlab.com/FJrodafo/port-finder/-/releases).
 
-If there is no release, just download the latest commit from the main branch. The repository can be downloaded via a zip file by clicking the following link: [GitHub](https://github.com/FJrodafo/free-port/archive/refs/heads/main.zip)/[GitLab](https://gitlab.com/FJrodafo/free-port/-/archive/main/free-port-main.zip).
+If there is no release, just download the latest commit from the main branch. The repository can be downloaded via a zip file by clicking the following link: [GitHub](https://github.com/FJrodafo/port-finder/archive/refs/heads/main.zip)/[GitLab](https://gitlab.com/FJrodafo/port-finder/-/archive/main/port-finder-main.zip).
 
 ## Reporting a Vulnerability
 
-If you have detected any security vulnerability, please report it by filling out a specialized form at the following link: [GitHub](https://github.com/FJrodafo/free-port/issues/new/choose)/[GitLab](https://gitlab.com/FJrodafo/free-port/-/issues/new).
+If you have detected any security vulnerability, please report it by filling out a specialized form at the following link: [GitHub](https://github.com/FJrodafo/port-finder/issues/new/choose)/[GitLab](https://gitlab.com/FJrodafo/port-finder/-/issues/new).
 
 It's really important to preserve the maximum security, besides we appreciate the effort that this work entails to improve our code.

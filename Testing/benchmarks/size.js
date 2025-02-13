@@ -38,7 +38,7 @@ function calculateFolderSize(directoryPath) {
 }
 
 // Set the package name and construct the directory path of the package in the 'node_modules' folder.
-const packageName = '@fjrodafo/free-port';
+const packageName = '@fjrodafo/port-finder';
 const packageDirectory = './node_modules/' + packageName;
 // Calculate the size of the package directory in bytes using the 'calculateFolderSize' function.
 const sizeInBytes = calculateFolderSize(packageDirectory);

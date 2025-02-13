@@ -1,5 +1,5 @@
 // Set the package name as a string variable, representing the package to be loaded.
-const packageName = '@fjrodafo/free-port';
+const packageName = '@fjrodafo/port-finder';
 // Record the start time using process.hrtime() for high-resolution time measurement.
 const startTime = process.hrtime();
 // Require the package dynamically using the package name.
