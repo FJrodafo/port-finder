@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "node benchmarks/loading.js && node benchmarks/size.js"
+  },
+  "dependencies": {
+    "@fjrodafo/port-finder": "^2.0.1"
+  }
+}
