@@ -1,5 +1,4 @@
 // This script is available on GitHub Gist at https://gist.github.com/FJrodafo/d4b8c856e82b988731900f373745c846
-
 // Explore more gists by Francisco José Rodríguez Afonso at https://gist.github.com/FJrodafo
 
 // This script defines a function findAvailablePort that checks if a given port is available.
