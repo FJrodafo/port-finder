@@ -4,6 +4,6 @@
     "test": "node benchmarks/loading.js && node benchmarks/size.js"
   },
   "dependencies": {
-    "@fjrodafo/port-finder": "^2.0.2"
+    "@fjrodafo/port-finder": "^2.0.3"
   }
 }
