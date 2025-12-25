@@ -1,6 +1,6 @@
 {
   "name": "@fjrodafo/port-finder",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Fast and minimalist port finder!",
   "main": "port-finder.js",
   "scripts": {
