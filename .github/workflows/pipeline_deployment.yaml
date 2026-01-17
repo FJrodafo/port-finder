@@ -17,6 +17,5 @@ jobs:
           node-version: "18"
 
       - name: Install dependencies
-        run: |
-          cd ./Testing
-          npm install
+        working-directory: Testing
+        run: npm install

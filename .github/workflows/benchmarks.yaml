@@ -17,16 +17,13 @@ jobs:
           node-version: "18"
 
       - name: Install dependencies
-        run: |
-          cd ./Testing
-          npm install
+        working-directory: Testing
+        run: npm install
 
       - name: Loading time
-        run: |
-          cd ./Testing
-          node ./benchmarks/loading.js
+        working-directory: Testing
+        run: node ./benchmarks/loading.js
 
       - name: Package size
-        run: |
-          cd ./Testing
-          node ./benchmarks/size.js
+        working-directory: Testing
+        run: node ./benchmarks/size.js
