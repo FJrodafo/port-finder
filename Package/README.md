@@ -35,6 +35,6 @@ findAvailablePort(desiredPort).then(port => {
 
 ## Links
 
-Contribute to the repository on [GitHub](https://github.com/FJrodafo/port-finder).
+Contribute to the repository on [GitHub](https://github.com/FJrodafo/PortFinder).
 
-Check out this package on [GitHub Packages](https://github.com/FJrodafo/port-finder/pkgs/npm/port-finder) or [npmjs](https://www.npmjs.com/package/@fjrodafo/port-finder) website!
+Check out this package on [GitHub Packages](https://github.com/FJrodafo/PortFinder/pkgs/npm/port-finder) or [npmjs](https://www.npmjs.com/package/@fjrodafo/port-finder) website!

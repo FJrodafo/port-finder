@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FJrodafo/port-finder.git"
+    "url": "git+https://github.com/FJrodafo/PortFinder.git"
   },
   "keywords": [
     "fast",
@@ -27,7 +27,7 @@
   "author": "FJrodafo - Francisco José Rodríguez Afonso",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FJrodafo/port-finder/issues"
+    "url": "https://github.com/FJrodafo/PortFinder/issues"
   },
-  "homepage": "https://github.com/FJrodafo/port-finder#readme"
+  "homepage": "https://github.com/FJrodafo/PortFinder#readme"
 }
